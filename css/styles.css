@@ -2,4 +2,15 @@
   text-align: center;
   padding: 20px;
   float: left;
+  width: 50%;
+}
+li {
+  background-color: #ebe1df;
+  border-radius: 10px;
+  padding: 2px;
+  line-height: 16pt;
+}
+button {
+  text-align: center;
+  width: 50%;
 }
